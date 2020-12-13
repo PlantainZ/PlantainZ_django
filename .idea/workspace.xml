@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://C:/XXXX_Learning/Software_Engineering/DevTool/Anaconda_py37/envs/TFGPUP36/Lib/wsgiref/headers.py" line="142" />
+    <bookmark url="file://$PROJECT_DIR$/templates/Season_01/test.html" />
+    <bookmark url="file://$PROJECT_DIR$/static/assets/calendar/javascripts/simple-calendar.js" line="233" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8dcff887-7ffe-4306-9c1f-f1142903e6eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PlantainZ/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlantainZ" beforeDir="false" afterPath="$PROJECT_DIR$/PlantainZ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlantainZ/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlantainZ/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlantainZ/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlantainZ/urls.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PlantainZ$tests.coverage" NAME="tests Coverage Results" MODIFIED="1590224383026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps/plan" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/Season_01/05_deliberate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Season_01/06_pickStar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14846">
+              <caret line="571" column="14" selection-start-line="571" selection-start-column="14" selection-end-line="571" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>../../../static/</find>
+      <find>{% static &quot;</find>
+      <find>user_private</find>
+      <find>map</find>
+      <find>shadow</find>
+      <find>form-group</find>
+      <find>fa-caret-down</find>
+      <find>mt</find>
+      <find>!important</find>
+      <find>{% static '</find>
+      <find>panel-collapse collapse</find>
+      <find>column</find>
+      <find>w3l</find>
+      <find>w3l-contact</find>
+      <find>contact3</find>
+      <find>767575</find>
+      <find>updateEv</find>
+      <find>getSe</find>
+      <find>plan_fin</find>
+      <find>festival</find>
+      <find>plan_finish</find>
+      <find>main-input</find>
+      <find>contact-input</find>
+      <find>section</find>
+      <find>selected_day_shower</find>
+      <find>task_show</find>
+      <find>get</find>
+      <find>Day</find>
+      <find>showLunarCalendar</find>
+      <find>Lunar</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.pin_username</replace>
+      <replace>{% static '</replace>
+      <replace>{% static &quot;</replace>
+      <replace>plan</replace>
+      <replace>../../../static</replace>
+      <replace>plan_fin_pre1</replace>
+      <replace>comment</replace>
+      <replace>plan_comment</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/apps/plan/test2.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/utils/mixin.py" />
+        <option value="$PROJECT_DIR$/celery_tasks/tasks.py" />
+        <option value="$PROJECT_DIR$/templates/Season_01/test.html" />
+        <option value="$PROJECT_DIR$/static/myCmpn/css/test.css" />
+        <option value="$PROJECT_DIR$/static/myCmpn/css/base.css" />
+        <option value="$PROJECT_DIR$/templates/Season_01/backup/index.html" />
+        <option value="$PROJECT_DIR$/templates/Season_01/backup/B_today.html" />
+        <option value="$PROJECT_DIR$/templates/Season_01/backup/B_tmrw.html" />
+        <option value="$PROJECT_DIR$/apps/plan/migrations/test2.py" />
+        <option value="$PROJECT_DIR$/apps/plan/test2.py" />
+        <option value="$PROJECT_DIR$/templates/Season_01/backup/learn2.html" />
+        <option value="$PROJECT_DIR$/templates/Season_01/login.html" />
+        <option value="$PROJECT_DIR$/templates/Season_01/base_subPage.html" />
+        <option value="$PROJECT_DIR$/static/myCmpn/css/today.css" />
+        <option value="$PROJECT_DIR$/static/myCmpn/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/static/myCmpn/iconfont/iconfont.css" />
+        <option value="$PROJECT_DIR$/templates/Season_01/backup/learn.html" />
+        <option value="$PROJECT_DIR$/PlantainZ/test.py" />
+        <option value="$PROJECT_DIR$/static/assets/css/style-starter.css" />
+        <option value="$PROJECT_DIR$/templates/Season_01/02_register.html" />
+        <option value="$PROJECT_DIR$/tplTags/set_var.py" />
+        <option value="$PROJECT_DIR$/功能捡漏" />
+        <option value="$PROJECT_DIR$/templates/Season_01/backup/test2.html" />
+        <option value="$PROJECT_DIR$/static/assets/calendar/stylesheets/simple-calendar.css" />
+        <option value="$PROJECT_DIR$/apps/plan/templatetags/set_var.py" />
+        <option value="$PROJECT_DIR$/apps/plan/models.py" />
+        <option value="$PROJECT_DIR$/apps/plan/tests.py" />
+        <option value="$PROJECT_DIR$/templates/Season_01/05_tmrw.html" />
+        <option value="$PROJECT_DIR$/apps/plan/urls.py" />
+        <option value="$PROJECT_DIR$/static/myCmpn/css/planAdd.css" />
+        <option value="$PROJECT_DIR$/templates/Season_01/backup/test3.html" />
+        <option value="$PROJECT_DIR$/templates/Season_01/07_planAdd.html" />
+        <option value="$PROJECT_DIR$/apps/plan/views.py" />
+        <option value="$PROJECT_DIR$/static/assets/calendar/javascripts/simple-calendar.js" />
+        <option value="$PROJECT_DIR$/static/assets/calendar/javascripts/simple-calendar-es6.js" />
+        <option value="$PROJECT_DIR$/templates/Season_01/06_pickStar.html" />
+        <option value="$PROJECT_DIR$/templates/Season_01/03_firstPage.html" />
+        <option value="$PROJECT_DIR$/templates/Season_01/backup/test.html" />
+        <option value="$PROJECT_DIR$/templates/Season_01/backup/testEcharts.html" />
+        <option value="$PROJECT_DIR$/templates/Season_01/04_today.html" />
+        <option value="$PROJECT_DIR$/PlantainZ/admin.py" />
+        <option value="$PROJECT_DIR$/apps/plan/admin.py" />
+        <option value="$PROJECT_DIR$/PlantainZ/settings.py" />
+        <option value="$PROJECT_DIR$/apps/deliberate/models.py" />
+        <option value="$PROJECT_DIR$/apps/user_private/views.py" />
+        <option value="$PROJECT_DIR$/templates/Season_01/base.html" />
+        <option value="$PROJECT_DIR$/apps/deliberate/views.py" />
+        <option value="$PROJECT_DIR$/PlantainZ/urls.py" />
+        <option value="$PROJECT_DIR$/apps/deliberate/urls.py" />
+        <option value="$PROJECT_DIR$/apps/user_private/urls.py" />
+        <option value="$PROJECT_DIR$/templates/Season_01/05_deliberate.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PlantainZ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PlantainZ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlantainZ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PlantainZ" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlantainZ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PlantainZ" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="deliberate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlantainZ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PlantainZ" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="plan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlantainZ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PlantainZ" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="user_private" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlantainZ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PlantainZ" type="462c0819:PsiDirectoryNode" />
+              <item name="PlantainZ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlantainZ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PlantainZ" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlantainZ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PlantainZ" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="Season_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlantainZ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PlantainZ" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="Season_01" type="462c0819:PsiDirectoryNode" />
+              <item name="backup" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2642998" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\XXXX_CodeRepository\PlantainZ\templates\Season_01\backup" />
+      <recent name="C:\XXXX_CodeRepository\PlantainZ\static\myCmpn\js" />
+      <recent name="C:\XXXX_CodeRepository\PlantainZ\static\assets\images" />
+      <recent name="C:\XXXX_CodeRepository\PlantainZ\static\assets\images\myImg" />
+      <recent name="C:\XXXX_CodeRepository\PlantainZ\static\assets\images\icon" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\XXXX_CodeRepository\PlantainZ\apps" />
+      <recent name="C:\XXXX_CodeRepository\PlantainZ\apps\plan" />
+      <recent name="C:\XXXX_CodeRepository\PlantainZ\static\assets\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.PlantainZ">
+    <configuration name="05_deliberate.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PlantainZ/templates/Season_01/05_deliberate.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="B_index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PlantainZ/templates/Season_01/backup/B_index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="B_tmrw.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PlantainZ/templates/Season_01/backup/B_tmrw.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="test3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PlantainZ/templates/Season_01/backup/test3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="testEcharts.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PlantainZ/templates/Season_01/backup/testEcharts.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="PlantainZ" type="Python.DjangoServer" factoryName="Django server">
+      <module name="PlantainZ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="PlantainZ.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.testEcharts.html" />
+        <item itemvalue="JavaScript Debug.test3.html" />
+        <item itemvalue="JavaScript Debug.05_deliberate.html" />
+        <item itemvalue="JavaScript Debug.B_tmrw.html" />
+        <item itemvalue="JavaScript Debug.B_index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dcff887-7ffe-4306-9c1f-f1142903e6eb" name="Default Changelist" comment="" />
+      <created>1588335896753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588335896753</updated>
+      <workItem from="1588335899762" duration="3815000" />
+      <workItem from="1588402418894" duration="12237000" />
+      <workItem from="1588507107247" duration="5436000" />
+      <workItem from="1588581155642" duration="10419000" />
+      <workItem from="1588655374818" duration="13764000" />
+      <workItem from="1588764914334" duration="16226000" />
+      <workItem from="1588861705010" duration="6113000" />
+      <workItem from="1588937918562" duration="13445000" />
+      <workItem from="1589015229261" duration="6432000" />
+      <workItem from="1589030921190" duration="664000" />
+      <workItem from="1589283245790" duration="5584000" />
+      <workItem from="1589368391546" duration="1357000" />
+      <workItem from="1589450415583" duration="6420000" />
+      <workItem from="1589530793190" duration="9044000" />
+      <workItem from="1589703657398" duration="12645000" />
+      <workItem from="1589764646627" duration="21475000" />
+      <workItem from="1589874461923" duration="21338000" />
+      <workItem from="1589936503469" duration="24330000" />
+      <workItem from="1590061469477" duration="7399000" />
+      <workItem from="1590114482085" duration="7454000" />
+      <workItem from="1590138718993" duration="3185000" />
+      <workItem from="1590152693932" duration="3877000" />
+      <workItem from="1590203004489" duration="4570000" />
+      <workItem from="1590218881294" duration="9981000" />
+      <workItem from="1590310050472" duration="6119000" />
+      <workItem from="1590392039971" duration="11272000" />
+      <workItem from="1590409450887" duration="3594000" />
+      <workItem from="1590496701855" duration="3162000" />
+      <workItem from="1590568728030" duration="1992000" />
+      <workItem from="1590816993258" duration="3189000" />
+      <workItem from="1591093437708" duration="1211000" />
+      <workItem from="1591186226562" duration="1311000" />
+      <workItem from="1593752742709" duration="600000" />
+      <workItem from="1593984107728" duration="334000" />
+      <workItem from="1595063876497" duration="5547000" />
+      <workItem from="1595839717528" duration="2524000" />
+      <workItem from="1596443286032" duration="6097000" />
+      <workItem from="1597331557828" duration="216000" />
+      <workItem from="1597650489112" duration="2163000" />
+      <workItem from="1597676422101" duration="307000" />
+      <workItem from="1597713661596" duration="2507000" />
+      <workItem from="1598063121143" duration="8131000" />
+      <workItem from="1598089394667" duration="722000" />
+      <workItem from="1599193580514" duration="13456000" />
+      <workItem from="1599462889392" duration="600000" />
+      <workItem from="1599883982777" duration="3215000" />
+      <workItem from="1600704735487" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="305486000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15616623" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32841823" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32841823" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39812332" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297587" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3297587" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/templates/Season_01/login.html</url>
+          <line>117</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/assets/images/鼎湖-6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/plan/templatetags/set_var.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/功能捡漏">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/plan/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-780">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/backup/B_index.html" />
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/backup/B_today.html" />
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/backup/B_tmrw.html" />
+    <entry file="file://$PROJECT_DIR$/static/myCmpn/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="5" column="63922" selection-start-line="5" selection-start-column="63922" selection-end-line="5" selection-end-column="63922" />
+          <folding>
+            <element signature="e#25752#25986#2" expanded="true" />
+            <element signature="e#26790#26943#1" expanded="true" />
+            <element signature="e#26983#27217#1" expanded="true" />
+            <element signature="e#30223#30499#2" expanded="true" />
+            <element signature="e#31331#31484#1" expanded="true" />
+            <element signature="e#31524#31800#1" expanded="true" />
+            <element signature="e#61064#61251#2" expanded="true" />
+            <element signature="e#61480#61616#2" expanded="true" />
+            <element signature="e#62019#62152#2" expanded="true" />
+            <element signature="e#63634#63787#1" expanded="true" />
+            <element signature="e#75680#75910#2" expanded="true" />
+            <element signature="e#76777#77013#2" expanded="true" />
+            <element signature="e#106603#106780#2" expanded="true" />
+            <element signature="e#106826#107003#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/backup/test3.html" />
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/backup/test2.html" />
+    <entry file="file://$PROJECT_DIR$/static/myCmpn/css/planAdd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlantainZ/dataTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="67" lean-forward="true" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/css/style-starter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="971" column="3" selection-start-line="971" selection-start-column="3" selection-end-line="971" selection-end-column="3" />
+          <folding>
+            <element signature="e#32606#32861#2" expanded="true" />
+            <element signature="e#33538#33712#1" expanded="true" />
+            <element signature="e#33754#34009#1" expanded="true" />
+            <element signature="e#36634#36948#2" expanded="true" />
+            <element signature="e#37637#37811#1" expanded="true" />
+            <element signature="e#37853#38167#1" expanded="true" />
+            <element signature="e#72218#72426#2" expanded="true" />
+            <element signature="e#72681#72838#2" expanded="true" />
+            <element signature="e#73293#73449#2" expanded="true" />
+            <element signature="e#74826#75000#1" expanded="true" />
+            <element signature="e#90260#90513#2" expanded="true" />
+            <element signature="e#91544#91803#2" expanded="true" />
+            <element signature="e#127397#127593#2" expanded="true" />
+            <element signature="e#127648#127845#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/calendar/javascripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/calendar/stylesheets/print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5555">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/calendar/stylesheets/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/calendar/stylesheets/simple-calendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2600">
+          <caret line="89" column="11" lean-forward="true" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/calendar/javascripts/simple-calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16042">
+          <caret line="617" column="31" selection-start-line="617" selection-start-column="31" selection-end-line="617" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/calendar/javascripts/simple-calendar-es6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4966">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/backup/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/myCmpn/js/echarts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/BaseModel.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/backup/testEcharts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/user_private/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/user_private/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/plan/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/07_planAdd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="539" column="10" selection-start-line="521" selection-start-column="8" selection-end-line="539" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery_tasks/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/04_today.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="838">
+          <caret line="395" column="6" lean-forward="true" selection-start-line="395" selection-start-column="6" selection-end-line="395" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlantainZ/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-702">
+          <caret line="39" column="33" lean-forward="true" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/plan/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/XXXX_Learning/Software_Engineering/DevTool/Anaconda_py37/envs/TFGPUP36/Lib/site-packages/django/urls/resolvers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="590" column="25" lean-forward="true" selection-start-line="590" selection-start-column="25" selection-end-line="590" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/user_private/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="220" lean-forward="true" selection-start-line="220" selection-end-line="220" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlantainZ/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/deliberate/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/deliberate/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="47" column="73" lean-forward="true" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/deliberate/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/user_private/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/plan/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/plan/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/deliberate/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/deliberate/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/deliberate/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/02_register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/01_login2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/backup/05_deliberate.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/03_firstPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/05_deliberate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Season_01/06_pickStar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14846">
+          <caret line="571" column="14" selection-start-line="571" selection-start-column="14" selection-end-line="571" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
